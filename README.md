@@ -1,13 +1,13 @@
 # NetPlanAdmin
-NetPlanAdmin es un proyecto de planificación y administración de redes que busca simular escenarios reales de infraestructura empresarial.
-El objetivo es mostrar mis habilidades en:
+**NetPlanAdmin** es un proyecto de **planificación y administración de redes** que busca simular escenarios reales de infraestructura empresarial.  
 
-Diseño de topologías de red adaptadas a diferentes necesidades.
+El objetivo es mostrar mis habilidades en:  
 
-Configuración de dispositivos de red (switches, routers, firewalls, etc.).
+- 🔹 Diseño de topologías de red adaptadas a diferentes necesidades.  
+- 🔹 Configuración de dispositivos de red (switches, routers, firewalls, etc.).  
+- 🔹 Implementación de buenas prácticas en seguridad y administración.  
+- 🔹 Automatización de tareas mediante scripts y herramientas de gestión.  
 
-Implementación de buenas prácticas en seguridad y administración.
+Este proyecto está orientado a que **empresas o reclutadores** puedan evaluar mi capacidad para **diseñar, documentar y administrar redes reales**, desde la fase de planificación hasta la puesta en marcha.  
 
-Automatización de tareas mediante scripts y herramientas de gestión.
-
-Este proyecto está orientado a que empresas o reclutadores puedan evaluar mi capacidad para diseñar, documentar y administrar redes reales, desde la fase de planificación hasta la puesta en marcha.
+---
