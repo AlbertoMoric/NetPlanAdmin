@@ -14,6 +14,6 @@ Este proyecto está orientado a que **empresas o reclutadores** puedan evaluar m
 
 ## 📑 Índice  
 
-1. [Elementos de la Red](docs/elementos_red.md)  
-2. [Topología Inicial](docs/topologia_inicial.md)  
-3. [Casos de Uso](docs/casos_de_uso.md)  
+1. [Topologia de Red](docs/elementos_red.md)  
+2. [Elementos de la Red](docs/topologia_inicial.md)  
+3. [Implementacion de Seguridad](docs/casos_de_uso.md)  
